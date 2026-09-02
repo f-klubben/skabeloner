@@ -1,0 +1,11 @@
+[page]
+paper="a1"
+
+[semester]
+year = 2026
+months = [9,10,11,12]
+
+[paths]
+events = "events.csv"
+orgs = "orgs.csv"
+assets = "assets/"
